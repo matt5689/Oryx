@@ -53,6 +53,12 @@ mcr.microsoft.com/oryx/build:latest`.
 </details>
 
 <details>
+<summary>For a high-level image of how the build image is constructed, click here.</summary>
+
+![Build images](./resources/build-images.png)
+</details>
+
+<details>
 <summary>For a list of packages installed as a part of this build image, click here.</summary>
 
 #### [Lts Versions Build Image](../images/build/Dockerfiles/ltsVersions.Dockerfile)
